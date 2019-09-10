@@ -1,2 +1,4 @@
 print("Hello WOrld!");
 print("second commit");
+
+print("Здравствуйте");
